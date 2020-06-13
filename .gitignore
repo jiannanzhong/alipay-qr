@@ -1,0 +1,8 @@
+.idea
+composer.lock
+*.log
+thinkphp
+.idea/**/*
+alipay/config/*
+!alipay/config/*.example
+!alipay/config/readme.md
